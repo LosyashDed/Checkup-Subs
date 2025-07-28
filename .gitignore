@@ -1,5 +1,6 @@
 .env
 .DS_Store
-logs/
+logs/*
+!logs/.gitkeep
 __pycache__/
 *.db
